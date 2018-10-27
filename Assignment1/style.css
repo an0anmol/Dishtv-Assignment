@@ -1,0 +1,9 @@
+body{
+    color: azure;
+}
+form.border { width: 250px;
+    height: 250px;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #1e2a2d;
+}
