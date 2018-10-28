@@ -10,6 +10,6 @@ function myFunction()
         }
       else  if (passw.test(var2) == false) 
         {
-            alert('Invalid Password');
+           alert('Invalid Password. Password should be 8 to 16 characters with at least one numeric digit, upper case, lower case and a special character');
         }
   }
